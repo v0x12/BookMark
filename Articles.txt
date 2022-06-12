@@ -1,0 +1,2 @@
+1. https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems
+1 - Step 5 Write a big Lump of code
