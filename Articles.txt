@@ -1,10 +1,9 @@
 In-Progress
-
+https://tonsky.me/blog/disenchantment/
 
 
 
 Nice-to-read
-https://tonsky.me/blog/disenchantment/
 https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 https://smyachenkov.com/posts/cognitive-biases-software-development/
 https://future.com/new-business-ai-different-traditional-software/
