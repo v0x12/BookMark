@@ -1,13 +1,9 @@
 In-Progress
 
-1. https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems
-1 - Step 5 Write a big Lump of code
-
 
 
 
 Nice-to-read
-
 https://www.swyx.io/js-third-age/
 https://tonsky.me/blog/disenchantment/
 https://www.kalzumeus.com/2012/01/23/salary-negotiation/
@@ -15,3 +11,8 @@ https://smyachenkov.com/posts/cognitive-biases-software-development/
 https://future.com/new-business-ai-different-traditional-software/
 https://increment.com/frontend/when-frontend-means-full-stack/
 https://jesseduffield.com/beginners-guide-to-abstraction/
+
+
+Completed
+1. https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems
+
