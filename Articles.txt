@@ -1,5 +1,5 @@
 In-Progress
-
+https://increment.com/frontend/when-frontend-means-full-stack/
 
 
 
@@ -7,7 +7,6 @@ Nice-to-read
 https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 https://smyachenkov.com/posts/cognitive-biases-software-development/
 https://future.com/new-business-ai-different-traditional-software/
-https://increment.com/frontend/when-frontend-means-full-stack/
 https://jesseduffield.com/beginners-guide-to-abstraction/
 
 
