@@ -4,7 +4,6 @@ In-Progress
 
 
 Nice-to-read
-https://www.swyx.io/js-third-age/
 https://tonsky.me/blog/disenchantment/
 https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 https://smyachenkov.com/posts/cognitive-biases-software-development/
@@ -15,4 +14,5 @@ https://jesseduffield.com/beginners-guide-to-abstraction/
 
 Completed
 1. https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems
+2. https://www.swyx.io/js-third-age/
 
