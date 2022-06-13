@@ -1,5 +1,5 @@
 In-Progress
-https://tonsky.me/blog/disenchantment/
+
 
 
 
@@ -14,4 +14,4 @@ https://jesseduffield.com/beginners-guide-to-abstraction/
 Completed
 1. https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems
 2. https://www.swyx.io/js-third-age/
-
+3. https://tonsky.me/blog/disenchantment/
